@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankur</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurm9&label=Profile%20views&color=0e75b6&style=flat" alt="ankurm9" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankurm9" alt="ankurm9" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ankur2_" target="blank"><img src="https://img.shields.io/twitter/follow/ankur2_?logo=twitter&style=for-the-badge" alt="ankur2_" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankur2_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankur2_" height="30" width="40" /></a>
